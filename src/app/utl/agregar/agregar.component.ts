@@ -52,7 +52,7 @@ export default class AgregarComponent implements OnInit{
           correo:''
         }
  
-        this.router.navigate(['/humani/listaalumnos'])
+        this.router.navigate(['/utl/listaalumnos'])
  
     }
  

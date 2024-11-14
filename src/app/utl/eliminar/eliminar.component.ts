@@ -58,7 +58,7 @@ export default class EliminarComponent {
     error:(e)=> console.error(e),
     complete:()=>console.info()})
  
-    this.router.navigate(['/humani/listaalumnos'])
+    this.router.navigate(['/utl/listaalumnos'])
  
 }
  
